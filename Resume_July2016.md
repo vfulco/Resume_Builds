@@ -29,7 +29,7 @@ Fish and Wildlife Research Institute | Florida Fish and Wildlife Research Conser
 
 * Investigated effects of agriculture and urbanization on American Kestrel (*Falco sparverius*) nest success.   
 
-**Research Assistant** (2012-2013)   
+**Research Assistant** (2012-2013)     
 Sieving Avian Ecology and Conservation Lab | University of Florida    
 
 * Investigated alignment of predation risk perception and predation risk of small forest birds.  
@@ -42,7 +42,7 @@ Neighborhood Nestwatch Program  | Smithsonian Migratory Bird Center
 * Banding demonstrations at local youth organizations.  
 * Organized and trained banding technicians.  
 
-**Project Volunteer  ** (2012)  
+**Project Volunteer** (2012)    
 Ordway Lab of Ecosystem Conservation | Univeristy of Florida  
 
 * Transcribed voice-recorded, behavioral foraging data.
