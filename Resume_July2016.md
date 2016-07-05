@@ -1,5 +1,5 @@
 #Jessica L. Burnett
-### Urban Wildlife Ecology and Consevation | Ecological Data Science
+## Urban Wildlife Ecology and Consevation | Ecological Data Science
 ## Education
 **University of Nebraska-Lincoln in Lincoln, NE**  
 Ph.D. (*expected* 2019) Natural Resource Sciences and Applied Ecology    
@@ -7,7 +7,7 @@ Ph.D. (*expected* 2019) Natural Resource Sciences and Applied Ecology
 M.Sc. (2015) Wildlife Ecology and Conservation    
 B.Sc. (2013) Wildlife Ecology and Conservation   
 
-## Research Experience  
+## Research Experience  {#experience-research}
 
 **Graduate Research Assistant** (2015-Present)    
 Nebraska Cooperative Fish and Wildlife Research Unit | University of Nebraska-Lincoln    
@@ -42,7 +42,7 @@ Neighborhood Nestwatch Program  | Smithsonian Migratory Bird Center
 * Banding demonstrations at local youth organizations.  
 * Organized and trained banding technicians.  
 
-**Project Volunteer** (2012)  
+**Project Volunteer  ** (2012)  
 Ordway Lab of Ecosystem Conservation | Univeristy of Florida  
 
 * Transcribed voice-recorded, behavioral foraging data.
