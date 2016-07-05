@@ -42,7 +42,7 @@ Neighborhood Nestwatch Program  | Smithsonian Migratory Bird Center
 * Banding demonstrations at local youth organizations.  
 * Organized and trained banding technicians.  
 
-**Project Volunteer  ** (2012)  
+**Project Volunteer** (2012)  
 Ordway Lab of Ecosystem Conservation | Univeristy of Florida  
 
 * Transcribed voice-recorded, behavioral foraging data.
