@@ -1,0 +1,12 @@
+---
+#title: "CV_Burnett_July.2016"
+#author: "JLB"
+#date: "July 4, 2016"
+output: html_document
+---
+
+```{r child = 'education.Rmd'}
+```
+
+```{r child = 'experience-research.Rmd'}
+```
