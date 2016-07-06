@@ -62,8 +62,8 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 2015&nbsp;&nbsp;&nbsp;Founder, Affiliate Chapter of the Association for Women in Science, University of Nebraska-Lincoln  
 
 #### To the Profession   
-2016&nbsp;&nbsp;&nbsp;Planning Committee for Inclusive Ecology Section, Ecological Society of America    
-2016-&nbsp;&nbsp;Reviewer, Wilson Journal of Ornithology    
+2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Planning Committee for Inclusive Ecology Section, Ecological Society of America    
+2016-&nbsp;&nbsp;&nbsp;Reviewer, Wilson Journal of Ornithology    
 2015-16 Urban Ecosystem Ecology Section, Liaison, Ecological Society of America   
 
 ##Grants
