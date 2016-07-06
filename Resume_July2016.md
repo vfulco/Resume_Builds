@@ -53,39 +53,39 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 # Service
 ####At the University of Nebraska-Lincoln       
 
-2016-&nbsp;&nbsp;Faculty Advisory Committee, School of Natural Resources, University of Nebraska-Lincoln    
-2016&nbsp;&nbsp;&nbsp;Organizer, Association for Women in Science Mentor Workshop, University of Nebraska-Lincoln  
-2016&nbsp;&nbsp;&nbsp;Faculty Search Committee, Urban and Community Forester, University of Nebraska-Lincoln  
-2016&nbsp;&nbsp;&nbsp;Seminar Committee, School of Natural Resources, University of Nebraska-Lincoln     
-2015-16 Founder & President, Natural Resources Diversity Initiative, University of Nebraska-Lincoln      
-2015-16 Student Representative for the School of Natural Resources, Graduate Student Association, University of Nebraska-Lincoln      
-2015&nbsp;&nbsp;&nbsp;Founder, Affiliate Chapter of the Association for Women in Science, University of Nebraska-Lincoln    
-#### To the Profession   
-2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Planning Committee for Inclusive Ecology Section, Ecological Society of America    
-2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reviewer, Wilson Journal of Ornithology    
-2015-16 Urban Ecosystem Ecology Section, Liaison, Ecological Society of America   
+2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty Advisory Committee, School of Natural Resources, University of Nebraska-Lincoln    
+2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organizer, Association for Women in Science Mentor Workshop, University of Nebraska-Lincoln  
+2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty Search Committee, Urban and Community Forester, University of Nebraska-Lincoln  
+2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Committee, School of Natural Resources, University of Nebraska-Lincoln     
+2015-16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Founder & President, Natural Resources Diversity Initiative, University of Nebraska-Lincoln      
+2015-16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Representative for the School of Natural Resources, Graduate Student Association, University of Nebraska-Lincoln      
+2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Founder, Affiliate Chapter of the Association for Women in Science, University of Nebraska-Lincoln    
+####To the Profession   
+2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Planning Committee for Inclusive Ecology Section, Ecological Society of America    
+2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reviewer, Wilson Journal of Ornithology    
+2015-16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Urban Ecosystem Ecology Section, Liaison, Ecological Society of America   
 
 ##Grants
-####&nbsp;&nbsp;&nbsp;Research   
-2013&nbsp;&nbsp;&nbsp; IFAS Extension Internship for Undergraduate Research, University of Florida __$2,200__  
-2013&nbsp;&nbsp;&nbsp;Ordway-Swisher Biological Station Undergraduate Research, University of Florida __$550__  
-####&nbsp;&nbsp;&nbsp;Travel   
-2016&nbsp;&nbsp;&nbsp;Nelson Memorial Fellowship, Univeristy of Nebraska-Lincoln __$900__  
-2016&nbsp;&nbsp;&nbsp;Center for Great Plains Studies, Univeristy of Nebraska-Lincoln __$750__   
-2016&nbsp;&nbsp;&nbsp;American Ornithologists' Union __$250__    
-2015&nbsp;&nbsp;&nbsp;NSF Diversity Award, Southeastern Ecology and Evolution Conference __$650__  
-2015&nbsp;&nbsp;&nbsp;Department of Wildlife Ecology and Conservation, University of Florida __$250__    
-2015&nbsp;&nbsp;&nbsp;Graduate Student Council, University of Florida __$350__  
-2015&nbsp;&nbsp;&nbsp;Office of Research University of Florida __$500__  
-2014&nbsp;&nbsp;&nbsp;Department of Wildlife Ecology and Conservation, University of Florida __$250__    
-2013&nbsp;&nbsp;&nbsp;Office of Dean, Institute of Food and Agricultural Sciences, University of Florida __$750__  
+####Research   
+2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IFAS Extension Internship for Undergraduate Research, University of Florida __$2,200__  
+2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rdway-Swisher Biological Station Undergraduate Research, University of Florida __$550__  
+####Travel   
+2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nelson Memorial Fellowship, Univeristy of Nebraska-Lincoln __$900__  
+2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Center for Great Plains Studies, Univeristy of Nebraska-Lincoln __$750__   
+2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;American Ornithologists' Union __$250__    
+2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NSF Diversity Award, Southeastern Ecology and Evolution Conference __$650__  
+2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Department of Wildlife Ecology and Conservation, University of Florida __$250__    
+2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graduate Student Council, University of Florida __$350__  
+2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ffice of Research University of Florida __$500__  
+2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Department of Wildlife Ecology and Conservation, University of Florida __$250__    
+2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Office of Dean, Institute of Food and Agricultural Sciences, University of Florida __$750__  
 
 ####&nbsp;&nbsp;&nbsp;Membership
-2013&nbsp;&nbsp;&nbsp;American Ornithologists' Union Undergraduate Student Membership Award
+2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;American Ornithologists' Union Undergraduate Student Membership Award
 
 ## Honors & Awards
 2016-18&nbsp;&nbsp;&nbsp; &nbsp;University of Nebraska Center for Great Plains Studies Fellow     
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AAAS/Science Program for Excellence in Science Award     
-2015-18&nbsp;&nbsp;&nbsp;&nbsp;Othmer Fellowship, University of Nebraska-Lincoln  *$24,000*   
+2015-18&nbsp;&nbsp;&nbsp;&nbsp;Othmer Fellowship, University of Nebraska-Lincoln  **$24,000**     
 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resilience Alliance Young Scholar  
-2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2<sup>nd</sup> place, School of Natural Resources Elevator Speech Competition *$300*   
+2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2<sup>nd</sup> place, School of Natural Resources Elevator Speech Competition **$300**    
