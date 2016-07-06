@@ -53,12 +53,12 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 # Service
 ####At the University of Nebraska-Lincoln       
 
-2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty Advisory Committee, School of Natural Resources, University of Nebraska-Lincoln    
+2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty Advisory Committee, School of Natural Resources, University of Nebraska-Lincoln    
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organizer, Association for Women in Science Mentor Workshop, University of Nebraska-Lincoln  
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty Search Committee, Urban and Community Forester, University of Nebraska-Lincoln  
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Committee, School of Natural Resources, University of Nebraska-Lincoln     
-2015-16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Founder & President, Natural Resources Diversity Initiative, University of Nebraska-Lincoln      
-2015-16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Representative for the School of Natural Resources, Graduate Student Association, University of Nebraska-Lincoln      
+2015-16&nbsp;nbsp;&nbsp;&nbsp;&nbsp;Founder & President, Natural Resources Diversity Initiative, University of Nebraska-Lincoln      
+2015-16&nbsp;&nbsp;&nbsp;&nbsp;Student Representative for the School of Natural Resources, Graduate Student Association, University of Nebraska-Lincoln      
 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Founder, Affiliate Chapter of the Association for Women in Science, University of Nebraska-Lincoln    
 ####To the Profession   
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Planning Committee for Inclusive Ecology Section, Ecological Society of America    
