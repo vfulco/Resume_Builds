@@ -63,7 +63,7 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 
 #### To the Profession   
 2016&nbsp;&nbsp;&nbsp;Planning Committee for Inclusive Ecology Section, Ecological Society of America    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reviewer, Wilson Journal of Ornithology    
+2016-&nbsp;&nbsp;Reviewer, Wilson Journal of Ornithology    
 2015-16 Urban Ecosystem Ecology Section, Liaison, Ecological Society of America   
 
 ##Grants
