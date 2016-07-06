@@ -1,5 +1,5 @@
 #Jessica L. Burnett
-## Urban Wildlife Ecology and Consevation | Ecological Data Science
+## Urban Ecology | Computational Ecology | Open Science
 ## Education
 **University of Nebraska-Lincoln in Lincoln, NE**  
 Ph.D. (*expected* 2019) Natural Resource Sciences and Applied Ecology    
@@ -7,7 +7,7 @@ Ph.D. (*expected* 2019) Natural Resource Sciences and Applied Ecology
 M.Sc. (2015) Wildlife Ecology and Conservation    
 B.Sc. (2013) Wildlife Ecology and Conservation   
 
-## Research Experience  {#experience-research}
+## Research Experience  
 
 **Graduate Research Assistant** (2015-Present)    
 Nebraska Cooperative Fish and Wildlife Research Unit | University of Nebraska-Lincoln    
@@ -77,12 +77,12 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 
 
 ## Honors
-2016-18&nbsp; &nbsp;&nbsp; &nbsp;University of Nebraska Center for Great Plains Studies Fellow  
-2016&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;AAAS/Science Program for Excellence in Science Award  
-2015-18&nbsp; &nbsp;&nbsp; &nbsp;University of Nebraska Othmer Fellow  
+2016-18&nbsp; &nbsp;&nbsp; &nbsp;University of Nebraska Center for Great Plains Studies Fellow     
+2016&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;AAAS/Science Program for Excellence in Science Award     
+2015-18&nbsp; &nbsp;&nbsp; &nbsp;Othmer Fellowship, University of Nebraska-Lincoln  *$24,000*   
 2015&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Resilience Alliance Young Scholar  
-2014&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;2<sup>nd</sup> place, School fo Natural Resources Elevator Speech Competition  
-2013-15&nbsp; &nbsp;&nbsp; &nbsp;Smithsonian Fellow  
+2014&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;2<sup>nd</sup> place, School of Natural Resources Elevator Speech Competition *$300*      
+2013-15&nbsp; &nbsp;&nbsp; &nbsp;Neighborhood Nestwatch Fellowship, Smithsonian Migratory Bird Research Center     
 
 
 
