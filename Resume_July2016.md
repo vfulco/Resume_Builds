@@ -48,7 +48,7 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 
 [3]  **Burnett, J.L.**, Allen, C.R., Brown, M.B., and Roberts, C.R. *Under review*.    Eurasian Tree Sparrow (*Passer montanus*) range expansion in North America.         *Biological Invasions*.   
 
-[4] Allen, C.R., Birge, H.B., Bartlet-Hunt, S.L., Bevans, R.A., **Burnett, J. L.** , Cosens, B.A., Cai, X., Garmestani, A.S., Linkov, I., Scott, E.A., Solomon, M.D., and Uden, D. *Under Review•. Avoiding decline: Fostering resilience and sustainability in midsize cities. *Sustainability*
+[4] Allen, C.R., Birge, H.B., Bartlet-Hunt, S.L., Bevans, R.A., **Burnett, J. L.** , Cosens, B.A., Cai, X., Garmestani, A.S., Linkov, I., Scott, E.A., Solomon, M.D., and Uden, D. *Under Review*. Avoiding decline: Fostering resilience and sustainability in midsize cities. *Sustainability*
 
 # Service
 ####At the University of Nebraska-Lincoln       
