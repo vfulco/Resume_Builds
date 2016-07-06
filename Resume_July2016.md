@@ -2,10 +2,10 @@
 ### Urban Ecology | Computational Ecology | Open Science
 ## Education
 **University of Nebraska-Lincoln in Lincoln, NE**  
-Ph.D. (*expected* 2019) Natural Resource Sciences and Applied Ecology    
+&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. (*expected* 2019) Natural Resource Sciences and Applied Ecology    
 **University of Florida in Gainesville, FL**  
-M.Sc. (2015) Wildlife Ecology and Conservation    
-B.Sc. (2013) Wildlife Ecology and Conservation   
+&nbsp;&nbsp;&nbsp;&nbsp;M.Sc. (2015) Wildlife Ecology and Conservation    
+&nbsp;&nbsp;&nbsp;&nbsp;B.Sc. (2013) Wildlife Ecology and Conservation   
 
 ## Research Experience  
 **Graduate Research Assistant** (2015-Present)    
