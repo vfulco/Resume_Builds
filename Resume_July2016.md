@@ -44,26 +44,25 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 ## Peer-reviewed Publications
 [1]  **Burnett, J.L.** and Moulton, M.P. 2015. Recent trends in House Sparrow (*Passer domesticus*) distribution and abundance in Gainesville, Alachua County, Florida. *Florida Field Naturalist* 43(4):167-172.   
 
-[2]  **Burnett, J.L.** and Sieving, K.E. Accepted with minor revisions. Songbird distress call as a detection enhancement method and application to Red-shouldered Hawks (*Buteo lineatus*). *Florida Field Naturalist*.    
+[2]  **Burnett, J.L.** and Sieving, K.E. Accepted with minor revisions. Songbird distress call as a detection enhancement method and application to Red-shouldered Hawks (*Buteo lineatus*). *Florida Field Naturalist*.      
 
-[3]  **Burnett, J.L.**, Allen, C.R., Brown, M.B., and Roberts, C.R. *Under review*.    Eurasian Tree Sparrow (*Passer montanus*) range expansion in North America.         *Biological Invasions*.   
+[3]  **Burnett, J.L.**, Allen, C.R., Brown, M.B., and Roberts, C.R. *Under review*.    Eurasian Tree Sparrow (*Passer montanus*) range expansion in North America.         *Biological Invasions*.     
 
-[4] Allen, C.R., Birge, H.B., Bartlet-Hunt, S.L., Bevans, R.A., **Burnett, J. L.** , Cosens, B.A., Cai, X., Garmestani, A.S., Linkov, I., Scott, E.A., Solomon, M.D., and Uden, D. *Under Review*. Avoiding decline: Fostering resilience and sustainability in midsize cities. *Sustainability*
+[4] Allen, C.R., Birge, H.B., Bartlet-Hunt, S.L., Bevans, R.A., **Burnett, J. L.** , Cosens, B.A., Cai, X., Garmestani, A.S., Linkov, I., Scott, E.A., Solomon, M.D., and Uden, D. *Under Review*. Avoiding decline: Fostering resilience and sustainability in midsize cities. *Sustainability*   
 
 # Service
 ####At the University of Nebraska-Lincoln       
 
-2016-&nbsp;&nbsp;Faculty Advisory Committee, School of Natural Resources, University of Nebraska-Lincoln
-2016&nbsp;&nbsp;&nbsp;Organizer, Association for Women in Science Mentor Workshop, University of Nebraska-Lincoln
-2016&nbsp;&nbsp;&nbsp;Faculty Search Committee, Urban and Community Forester, University of Nebraska-Lincoln
-2016&nbsp;&nbsp;&nbsp;Seminar Committee, School of Natural Resources, University of Nebraska-Lincoln   
-2015-16 Founder & President, Natural Resources Diversity Initiative, University of Nebraska-Lincoln    
-2015-16 Student Representative for the School of Natural Resources, Graduate Student Association, University of Nebraska-Lincoln    
-2015&nbsp;&nbsp;&nbsp;Founder, Affiliate Chapter of the Association for Women in Science, University of Nebraska-Lincoln  
-
+2016-&nbsp;&nbsp;Faculty Advisory Committee, School of Natural Resources, University of Nebraska-Lincoln    
+2016&nbsp;&nbsp;&nbsp;Organizer, Association for Women in Science Mentor Workshop, University of Nebraska-Lincoln  
+2016&nbsp;&nbsp;&nbsp;Faculty Search Committee, Urban and Community Forester, University of Nebraska-Lincoln  
+2016&nbsp;&nbsp;&nbsp;Seminar Committee, School of Natural Resources, University of Nebraska-Lincoln     
+2015-16 Founder & President, Natural Resources Diversity Initiative, University of Nebraska-Lincoln      
+2015-16 Student Representative for the School of Natural Resources, Graduate Student Association, University of Nebraska-Lincoln      
+2015&nbsp;&nbsp;&nbsp;Founder, Affiliate Chapter of the Association for Women in Science, University of Nebraska-Lincoln    
 #### To the Profession   
-2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Planning Committee for Inclusive Ecology Section, Ecological Society of America    
-2016-&nbsp;&nbsp;&nbsp;Reviewer, Wilson Journal of Ornithology    
+2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Planning Committee for Inclusive Ecology Section, Ecological Society of America    
+2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reviewer, Wilson Journal of Ornithology    
 2015-16 Urban Ecosystem Ecology Section, Liaison, Ecological Society of America   
 
 ##Grants
