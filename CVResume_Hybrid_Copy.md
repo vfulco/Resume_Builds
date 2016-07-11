@@ -1,3 +1,9 @@
+---
+layout: page
+title: Resume
+permalink: https://github.com/TrashBirdEcology/Resume_Builds/blob/master/CVResume_Hybrid.md
+---
+
 #Jessica L. Burnett
 ### Urban Ecology | Computational Ecology | Open Science
 ## Education
