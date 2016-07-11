@@ -4,7 +4,7 @@
 **University of Nebraska-Lincoln in Lincoln, NE**  
 &nbsp;&nbsp;&nbsp;&nbsp;Ph.D. (*expected* 2019) Natural Resource Sciences and Applied Ecology    
 **University of Florida in Gainesville, FL**  
-&nbsp;&nbsp;&nbsp;&nbsp;M.Sc. (2015) Wildlife Ecology and Conservation    
+&nbsp;&nbsp;&nbsp;&nbsp;M.Sc. (2015) Wildlife Ecology and Conservation      
 &nbsp;&nbsp;&nbsp;&nbsp;B.Sc. (2013) Wildlife Ecology and Conservation   
 
 ## Research Experience  
@@ -52,8 +52,7 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 
 # Service
 ####At the University of Nebraska-Lincoln       
-
-2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Liaison, [Faculty Advisory Committee](http://snr.unl.edu/employeeinfo/people/committee/facultyadvisory.asp), School of Natural Resources, University of Nebraska-Lincoln    
+2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Liaison, [Faculty Advisory Committee](http://snr.unl.edu/employeeinfo/people/committee/facultyadvisory.asp), School of Natural Resources, University of Nebraska-Lincoln    
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organizer, Association for Women in Science [Mentor Workshop](http://snr.unl.edu/registration/AWISMentor/MentorMenteeRegistrationAttendanceCap.aspx?utm_source=Google&utm_medium=email&utm_term=&utm_content=&utm_campaign=AWIS+Workshop), University of Nebraska-Lincoln  
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty Search Committee, [Urban and Community Forester](http://wfscjobs.tamu.edu/jobs/urban-and-community-forestry-professor-of-practice-university-of-nebraska-lincoln/), University of Nebraska-Lincoln  
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Seminar Coordinator](http://unlcms.unl.edu/snr/gsa/snr-gsa-seminar-coordinators), School of Natural Resources, University of Nebraska-Lincoln     
@@ -63,7 +62,7 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 ####To the Profession   
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Planning Committee for [Inclusive Ecology Section](http://www.esa.org/inclusive-ecology/), Ecological Society of America    
 2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reviewer, Wilson Journal of Ornithology    
-2015-16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Urban Ecosystem Ecology Section, Liaison, Ecological Society of America   
+2015-16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Liaison, [Urban Ecosystem Ecology Section](http://www.esa.org/urbanecology/),  Ecological Society of America   
 
 ##Grants
 ####Research   
