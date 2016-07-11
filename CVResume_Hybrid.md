@@ -62,13 +62,13 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organizer, Association for Women in Science [Mentor Workshop](http://snr.unl.edu/registration/AWISMentor/MentorMenteeRegistrationAttendanceCap.aspx?utm_source=Google&utm_medium=email&utm_term=&utm_content=&utm_campaign=AWIS+Workshop), University of Nebraska-Lincoln  
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty Search Committee, [Urban and Community Forester](http://wfscjobs.tamu.edu/jobs/urban-and-community-forestry-professor-of-practice-university-of-nebraska-lincoln/), University of Nebraska-Lincoln  
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Seminar Coordinator](http://unlcms.unl.edu/snr/gsa/snr-gsa-seminar-coordinators), School of Natural Resources, University of Nebraska-Lincoln     
-2015-16&nbsp;&nbsp;&nbsp;&nbsp;Founder & President, Natural Resources Diversity Initiative, University of Nebraska-Lincoln    
-2015-16&nbsp;&nbsp;&nbsp;&nbsp;Student Representative for the School of Natural Resources, Graduate Student Association, University of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nebraska-Lincoln        
+2015-16&nbsp;&nbsp;&nbsp; &nbsp;Founder & President, Natural Resources Diversity Initiative, University of Nebraska-Lincoln    
+2015-16&nbsp;&nbsp;&nbsp; &nbsp;Student Representative for the School of Natural Resources, Graduate Student Association, University of&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nebraska-Lincoln        
 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Founder, Affiliate Chapter of the Association for Women in Science, University of Nebraska-Lincoln    
 ####To the Profession   
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Planning Committee for [Inclusive Ecology Section](http://www.esa.org/inclusive-ecology/), Ecological Society of America    
 2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reviewer, Wilson Journal of Ornithology    
-2015-16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Liaison, [Urban Ecosystem Ecology Section](http://www.esa.org/urbanecology/),  Ecological Society of America   
+2015-16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Liaison, [Urban Ecosystem Ecology Section](http://www.esa.org/urbanecology/),  Ecological Society of America   
 
 ##Grants
 ####Research   
@@ -92,5 +92,5 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 2016-18&nbsp;&nbsp;&nbsp; &nbsp;University of Nebraska Center for Great Plains Studies [Graduate Fellow](http://www.unl.edu/plains/graduate-fellows-program)       
 2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AAAS/Science Program for Excellence in Science Award     
 2015-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resilience Alliance Young Scholar  
-2015-18&nbsp;&nbsp;&nbsp;&nbsp;Othmer Fellowship, University of Nebraska-Lincoln  **$24,000**     
+2015-18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Othmer Fellowship, University of Nebraska-Lincoln  **$24,000**     
 2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2<sup>nd</sup> place, School of Natural Resources Elevator Speech Competition **$300**    
