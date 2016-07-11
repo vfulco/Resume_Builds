@@ -53,15 +53,15 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 # Service
 ####At the University of Nebraska-Lincoln       
 
-2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty Advisory Committee, School of Natural Resources, University of Nebraska-Lincoln    
-2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organizer, Association for Women in Science Mentor Workshop, University of Nebraska-Lincoln  
-2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty Search Committee, Urban and Community Forester, University of Nebraska-Lincoln  
-2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Committee, School of Natural Resources, University of Nebraska-Lincoln     
+2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Liaison, [Faculty Advisory Committee](http://snr.unl.edu/employeeinfo/people/committee/facultyadvisory.asp), School of Natural Resources, University of Nebraska-Lincoln    
+2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organizer, Association for Women in Science [Mentor Workshop](http://snr.unl.edu/registration/AWISMentor/MentorMenteeRegistrationAttendanceCap.aspx?utm_source=Google&utm_medium=email&utm_term=&utm_content=&utm_campaign=AWIS+Workshop), University of Nebraska-Lincoln  
+2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty Search Committee, [Urban and Community Forester](http://wfscjobs.tamu.edu/jobs/urban-and-community-forestry-professor-of-practice-university-of-nebraska-lincoln/), University of Nebraska-Lincoln  
+2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Seminar Coordinator](http://unlcms.unl.edu/snr/gsa/snr-gsa-seminar-coordinators), School of Natural Resources, University of Nebraska-Lincoln     
 2015-16&nbsp;nbsp;&nbsp;&nbsp;&nbsp;Founder & President, Natural Resources Diversity Initiative, University of Nebraska-Lincoln      
 2015-16&nbsp;&nbsp;&nbsp;&nbsp;Student Representative for the School of Natural Resources, Graduate Student Association, University of Nebraska-Lincoln      
 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Founder, Affiliate Chapter of the Association for Women in Science, University of Nebraska-Lincoln    
 ####To the Profession   
-2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Planning Committee for Inclusive Ecology Section, Ecological Society of America    
+2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Planning Committee for [Inclusive Ecology Section](http://www.esa.org/inclusive-ecology/), Ecological Society of America    
 2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reviewer, Wilson Journal of Ornithology    
 2015-16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Urban Ecosystem Ecology Section, Liaison, Ecological Society of America   
 
@@ -70,7 +70,7 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IFAS Extension Internship for Undergraduate Research, University of Florida __$2,200__  
 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rdway-Swisher Biological Station Undergraduate Research, University of Florida __$550__  
 ####Travel   
-2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nelson Memorial Fellowship, Univeristy of Nebraska-Lincoln __$900__  
+2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nelson Memorial] Fellowship(http://newsroom.unl.edu/announce/snr/5519/31162), Univeristy of Nebraska-Lincoln __$900__  
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Center for Great Plains Studies, Univeristy of Nebraska-Lincoln __$750__   
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;American Ornithologists' Union __$250__    
 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NSF Diversity Award, Southeastern Ecology and Evolution Conference __$650__  
@@ -84,7 +84,7 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;American Ornithologists' Union Undergraduate Student Membership Award
 
 ## Honors & Awards
-2016-18&nbsp;&nbsp;&nbsp; &nbsp;University of Nebraska Center for Great Plains Studies Fellow     
+2016-18&nbsp;&nbsp;&nbsp; &nbsp;University of Nebraska Center for Great Plains Studies [Graduate Fellow](http://www.unl.edu/plains/graduate-fellows-program)       
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AAAS/Science Program for Excellence in Science Award     
 2015-18&nbsp;&nbsp;&nbsp;&nbsp;Othmer Fellowship, University of Nebraska-Lincoln  **$24,000**     
 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resilience Alliance Young Scholar  
