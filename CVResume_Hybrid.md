@@ -63,7 +63,7 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty Search Committee, [Urban and Community Forester](http://wfscjobs.tamu.edu/jobs/urban-and-community-forestry-professor-of-practice-university-of-nebraska-lincoln/), University of Nebraska-Lincoln  
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Seminar Coordinator](http://unlcms.unl.edu/snr/gsa/snr-gsa-seminar-coordinators), School of Natural Resources, University of Nebraska-Lincoln     
 2015-16&nbsp;&nbsp;&nbsp;&nbsp;Founder & President, Natural Resources Diversity Initiative, University of Nebraska-Lincoln    
-2015-16&nbsp;&nbsp;&nbsp;&nbsp;Student Representative for the School of Natural Resources, Graduate Student Association, University of Nebraska-Lincoln        
+2015-16&nbsp;&nbsp;&nbsp;&nbsp;Student Representative for the School of Natural Resources, Graduate Student Association, University of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nebraska-Lincoln        
 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Founder, Affiliate Chapter of the Association for Women in Science, University of Nebraska-Lincoln    
 ####To the Profession   
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Planning Committee for [Inclusive Ecology Section](http://www.esa.org/inclusive-ecology/), Ecological Society of America    
@@ -81,7 +81,7 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NSF Diversity Award, Southeastern Ecology and Evolution Conference __$650__  
 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Department of Wildlife Ecology and Conservation, University of Florida __$250__    
 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graduate Student Council, University of Florida __$350__  
-2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ffice of Research University of Florida __$500__  
+2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Office of Research University of Florida __$500__  
 2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Department of Wildlife Ecology and Conservation, University of Florida __$250__    
 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Office of Dean, Institute of Food and Agricultural Sciences, University of Florida __$750__  
 
