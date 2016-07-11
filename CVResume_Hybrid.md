@@ -67,7 +67,7 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 ##Grants
 ####Research   
 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IFAS Extension Internship for Undergraduate Research, University of Florida __$2,200__  
-2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rdway-Swisher Biological Station Undergraduate Research, University of Florida __$550__  
+2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ordway-Swisher Biological Station Undergraduate Research, University of Florida __$550__  
 ####Travel   
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nelson Memorial Fellowship](http://newsroom.unl.edu/announce/snr/5519/31162), Univeristy of Nebraska-Lincoln __$900__  
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Center for Great Plains Studies, Univeristy of Nebraska-Lincoln __$750__   
