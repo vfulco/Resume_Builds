@@ -65,7 +65,7 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty Search Committee, [Urban and Community Forester](http://wfscjobs.tamu.edu/jobs/urban-and-community-forestry-professor-of-practice-university-of-nebraska-lincoln/), University of Nebraska-Lincoln  
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Seminar Coordinator](http://unlcms.unl.edu/snr/gsa/snr-gsa-seminar-coordinators), School of Natural Resources, University of Nebraska-Lincoln     
 2015-16&nbsp;&nbsp;&nbsp;&nbsp;Department Representative Representative, Graduate Student Association, University of Nebraska-Lincoln        
-2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Founder, Affiliate Chapter of the Association for Women in Science, University of Nebraska-Lincoln    
+2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Founder, [Affiliate Chapter](http://www.awis.org/group/unl) of the Association for Women in Science, University of Nebraska-Lincoln    
 ####To the Profession   
 2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reviewer, Wilson Journal of Ornithology    
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Planning Committee for [Inclusive Ecology Section](http://www.esa.org/inclusive-ecology/), Ecological Society of America    
@@ -93,5 +93,5 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AAAS/Science Program for Excellence in Science Award     
 2016-18&nbsp;&nbsp;&nbsp; &nbsp;University of Nebraska Center for Great Plains Studies [Graduate Fellow](http://www.unl.edu/plains/graduate-fellows-program)       
 2015-18&nbsp;&nbsp;&nbsp;&nbsp;[Othmer Recruitment Fellowship](http://www.unl.edu/gradstudies/prospective/money/fellowships), University of Nebraska-Lincoln, **$24,000**     
-2015-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resilience Alliance Young Scholar  
-2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2<sup>nd</sup> place, School of Natural Resources Elevator Speech Competition, **$300**    
+2015-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Resilience Alliance](http://www.resalliance.org/) Young Scholar  
+2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2<sup>nd</sup> place, School of Natural Resources [Elevator Speech](http://snr.unl.edu/event/elevatorspeechcontest/index.asp?utm_source=google&utm_medium=web&utm_term=&utm_content=&utm_campaign=website) Competition, **$300**    
