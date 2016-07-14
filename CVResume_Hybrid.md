@@ -8,7 +8,7 @@ permalink: https://github.com/TrashBirdEcology/Resume_Builds/blob/master/CVResum
 ##### Urban Ecology | Open Science | Computational Ecology
 ### Education
 **University of Nebraska-Lincoln in Lincoln, NE**  
-&nbsp;&nbsp;&nbsp;&nbsp;Ph.D., Natural Resource Sciences with specialization in Applied Ecology, expected 2019    
+&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. Natural Resource Sciences with specialization in Applied Ecology, expected 2019    
 **University of Florida in Gainesville, FL**  
 &nbsp;&nbsp;&nbsp;&nbsp;M.Sc. (2015) Wildlife Ecology and Conservation, 2015      
 &nbsp;&nbsp;&nbsp;&nbsp;B.Sc. (2013) Wildlife Ecology and Conservation, 2013   
@@ -68,12 +68,12 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Founder, Affiliate Chapter of the Association for Women in Science, University of Nebraska-Lincoln    
 ####To the Profession   
 2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reviewer, Wilson Journal of Ornithology    
-2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Planning Committee for [Inclusive Ecology Section](http://www.esa.org/inclusive-ecology/), Ecological Society of America    
+2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Planning Committee for [Inclusive Ecology Section](http://www.esa.org/inclusive-ecology/), Ecological Society of America    
 2015-16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Liaison, [Urban Ecosystem Ecology Section](http://www.esa.org/urbanecology/),  Ecological Society of America   
 
 ###Grants
 ####Research   
-2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IFAS Extension Internship for Undergraduate Research, University of Florida, __$2,200__  
+2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IFAS Research Internship for Undergraduates, University of Florida, __$2,200__  
 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ordway-Swisher Biological Station Undergraduate Research, University of Florida, __$550__  
 ####Travel   
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nelson Memorial Fellowship](http://newsroom.unl.edu/announce/snr/5519/31162), Univeristy of Nebraska-Lincoln, __$900__  
@@ -93,5 +93,5 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 2016-18&nbsp;&nbsp;&nbsp; &nbsp;University of Nebraska Center for Great Plains Studies [Graduate Fellow](http://www.unl.edu/plains/graduate-fellows-program)       
 2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AAAS/Science Program for Excellence in Science Award     
 2015-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resilience Alliance Young Scholar  
-2015-18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Othmer Fellowship, University of Nebraska-Lincoln  **$24,000**     
-2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2<sup>nd</sup> place, School of Natural Resources Elevator Speech Competition **$300**    
+2015-18&nbsp;&nbsp;&nbsp;&nbsp;[Othmer Recruitment Fellowship](http://www.unl.edu/gradstudies/prospective/money/fellowships), University of Nebraska-Lincoln, **$24,000**     
+2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2<sup>nd</sup> place, School of Natural Resources Elevator Speech Competition, **$300**    
