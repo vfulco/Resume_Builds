@@ -5,7 +5,7 @@ permalink: https://github.com/TrashBirdEcology/Resume_Builds/blob/master/CVResum
 ---
 
 #Jessica L. Burnett
-### Urban Ecology | Computational Ecology | Open Science
+### Urban Ecology | Open Science | Computational Ecology
 ## Education
 **University of Nebraska-Lincoln in Lincoln, NE**  
 &nbsp;&nbsp;&nbsp;&nbsp;Ph.D. (*expected* 2019) Natural Resource Sciences and Applied Ecology    
@@ -15,7 +15,7 @@ permalink: https://github.com/TrashBirdEcology/Resume_Builds/blob/master/CVResum
 
 ## Research Experience  
 **Graduate Research Assistant** (2015-Present)    
-Nebraska Cooperative Fish and Wildlife Research Unit | University of Nebraska-Lincoln    
+Nebraska Cooperative Fish and Wildlife Research Unit (Dr. Craig R. Allen) | University of Nebraska-Lincoln    
 * Explore methods for detecting and predicting regime shifts on long-term and spatially explicit data.   
 * Identify indicator species for ecosystem regime shift prediction.  
 * Maintain clear communication with international collaborators.  
@@ -23,27 +23,27 @@ Nebraska Cooperative Fish and Wildlife Research Unit | University of Nebraska-Li
 * Write quarterly reports for Department of Defense.  
 
 **Graduate Research Assistant** (2013-2015)    
-Department of Wildlife Ecology and Conservation | University of Florida  
-* Use of open-source data to monitor invasive species' population trends.  
-* Development of occupancy models of non-native bird speces in urban areas.  
+Department of Wildlife Ecology and Conservation (Dr. Michael P. Moulton) | University of Florida  
+* Used open-source data to monitor invasive species' population trends.  
+* Developed occupancy models of non-native bird species in urban areas.  
 
 **GIS and Avian Ecology Intern** (2013)    
 Fish and Wildlife Research Institute | Florida Fish and Wildlife Research Conservation Commission    
 * Investigated effects of agriculture and urbanization on American Kestrel (*Falco sparverius*) nest success.   
 
 **Research Assistant** (2012-2013)     
-Sieving Avian Ecology and Conservation Lab | University of Florida    
+Avian Ecology and Conservation Lab (Dr. Kathryn E. Sieving)| University of Florida    
 * Investigated alignment of predation risk perception and predation risk of small forest birds.  
-* Managed seasonal bird danding database and banding supplies.  
+* Managed seasonal bird banding database and banding supplies.  
 
 **Smithsonian Fellow and Florida Crew Leader** (2011-2013)  
-Neighborhood Nestwatch Program  | Smithsonian Migratory Bird Center  
+Neighborhood Nestwatch Program | Smithsonian Migratory Bird Center  
 * Targeted capture and banding of select species in participants' backyards.  
 * Banding demonstrations at local youth organizations.  
 * Organized and trained banding technicians.  
 
 **Project Volunteer** (2012)    
-Ordway Lab of Ecosystem Conservation | Univeristy of Florida  
+Ordway Lab of Ecosystem Conservation (Dr. Scott K. Robinson) | Univeristy of Florida  
 * Transcribed voice-recorded, behavioral foraging data.
 * Identified louse from lowland manakins and flycatcher specimens.  
 
