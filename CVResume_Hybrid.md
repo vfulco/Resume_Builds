@@ -10,8 +10,8 @@ permalink: https://github.com/TrashBirdEcology/Resume_Builds/blob/master/CVResum
 **University of Nebraska-Lincoln in Lincoln, NE**  
 &nbsp;&nbsp;&nbsp;&nbsp;Ph.D. Natural Resource Sciences with specialization in Applied Ecology, expected 2019    
 **University of Florida in Gainesville, FL**  
-&nbsp;&nbsp;&nbsp;&nbsp;M.Sc. Wildlife Ecology and Conservation, 2015      
-&nbsp;&nbsp;&nbsp;&nbsp;B.Sc. Wildlife Ecology and Conservation, 2013   
+&nbsp;&nbsp;&nbsp;&nbsp;M.Sc. Wildlife Ecology and Conservation (2015)      
+&nbsp;&nbsp;&nbsp;&nbsp;B.Sc. Wildlife Ecology and Conservation (2013)   
 
 ### Professional Appointments  
 **Graduate Research Assistant** (2015- )    
