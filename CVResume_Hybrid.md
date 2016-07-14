@@ -90,8 +90,8 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;American Ornithologists' Union Undergraduate Student Membership Award
 
 ### Honors & Awards
-2016-18&nbsp;&nbsp;&nbsp; &nbsp;University of Nebraska Center for Great Plains Studies [Graduate Fellow](http://www.unl.edu/plains/graduate-fellows-program)       
 2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AAAS/Science Program for Excellence in Science Award     
-2015-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resilience Alliance Young Scholar  
+2016-18&nbsp;&nbsp;&nbsp; &nbsp;University of Nebraska Center for Great Plains Studies [Graduate Fellow](http://www.unl.edu/plains/graduate-fellows-program)       
 2015-18&nbsp;&nbsp;&nbsp;&nbsp;[Othmer Recruitment Fellowship](http://www.unl.edu/gradstudies/prospective/money/fellowships), University of Nebraska-Lincoln, **$24,000**     
+2015-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resilience Alliance Young Scholar  
 2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2<sup>nd</sup> place, School of Natural Resources Elevator Speech Competition, **$300**    
