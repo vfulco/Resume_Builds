@@ -10,11 +10,11 @@ permalink: https://github.com/TrashBirdEcology/Resume_Builds/blob/master/CVResum
 **University of Nebraska-Lincoln in Lincoln, NE**  
 &nbsp;&nbsp;&nbsp;&nbsp;Ph.D. Natural Resource Sciences with specialization in Applied Ecology, expected 2019    
 **University of Florida in Gainesville, FL**  
-&nbsp;&nbsp;&nbsp;&nbsp;M.Sc. (2015) Wildlife Ecology and Conservation, 2015      
-&nbsp;&nbsp;&nbsp;&nbsp;B.Sc. (2013) Wildlife Ecology and Conservation, 2013   
+&nbsp;&nbsp;&nbsp;&nbsp;M.Sc. Wildlife Ecology and Conservation, 2015      
+&nbsp;&nbsp;&nbsp;&nbsp;B.Sc. Wildlife Ecology and Conservation, 2013   
 
 ### Professional Appointments  
-**Graduate Research Assistant** (2015-)    
+**Graduate Research Assistant** (2015- )    
 Nebraska Cooperative Fish & Wildlife Research Unit | University of Nebraska-Lincoln    
 * Explore methods for detecting and predicting regime shifts on long-term and spatially explicit data.   
 * Identify indicator species for predicting ecosystem regime shifts. 
@@ -68,8 +68,8 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Founder, Affiliate Chapter of the Association for Women in Science, University of Nebraska-Lincoln    
 ####To the Profession   
 2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reviewer, Wilson Journal of Ornithology    
-2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Planning Committee for [Inclusive Ecology Section](http://www.esa.org/inclusive-ecology/), Ecological Society of America    
-2015-16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Liaison, [Urban Ecosystem Ecology Section](http://www.esa.org/urbanecology/),  Ecological Society of America   
+2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Planning Committee for [Inclusive Ecology Section](http://www.esa.org/inclusive-ecology/), Ecological Society of America    
+2015-16&nbsp;&nbsp;&nbsp;&nbsp;Liaison, [Urban Ecosystem Ecology Section](http://www.esa.org/urbanecology/),  Ecological Society of America   
 
 ###Grants
 ####Research   
