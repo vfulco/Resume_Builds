@@ -1,54 +1,67 @@
 ---
 layout: page
-title: Resume
+output: pdf_document
 permalink: https://github.com/TrashBirdEcology/Resume_Builds/blob/master/CVResume_Hybrid.md
 ---
 
 ##Jessica L. Burnett
 ##### Urban Ecology | Open Science | Computational Ecology
-### Education
-**University of Nebraska-Lincoln in Lincoln, NE**  
-&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. Natural Resource Sciences with specialization in Applied Ecology, expected 2019    
-**University of Florida in Gainesville, FL**  
+## <span style="font-variant: small-caps">
+Education
+</span>
+**University of Nebraska-Lincoln, Lincoln, NE**  
+&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. Natural Resource Sciences with specialization in Applied Ecology, expected 2019
+
+**University of Florida, Gainesville, FL**  
 &nbsp;&nbsp;&nbsp;&nbsp;M.Sc. Wildlife Ecology and Conservation (2015)      
-&nbsp;&nbsp;&nbsp;&nbsp;B.Sc. Wildlife Ecology and Conservation (2013)   
+&nbsp;&nbsp;&nbsp;&nbsp;B.Sc. Wildlife Ecology and Conservation (2013)
 
-### Professional Appointments  
-**Graduate Research Assistant** (2015- )    
+## <span style="font-variant: small-caps">
+Professional Appointments
+</span>
+**Graduate Research Assistant** (2015 - )  
 Nebraska Cooperative Fish & Wildlife Research Unit | University of Nebraska-Lincoln    
-* Explore methods for detecting and predicting regime shifts on long-term and spatially explicit data.   
-* Identify indicator species for predicting ecosystem regime shifts. 
-* Communication with local and international collaborators.  
-* Work with military base scientists to gather data.   
-* Write quarterly reports for Department of Defense.  
 
-**Graduate Research Assistant** (2013-2015)    
-Department of Wildlife Ecology and Conservation | University of Florida  
-* Used open-source data to monitor invasive species' population trends.  
+- Explore methods for detecting and predicting regime shifts on long-term and spatially explicit data.
+- Identify indicator species for predicting ecosystem regime shifts.
+- Communication with local and international collaborators.
+- Work with military base scientists to gather data.
+- Write quarterly reports for Department of Defense
+
+**Graduate Research Assistant** (2013 - 2015)    
+Department of Wildlife Ecology and Conservation | University of Florida
+
+* Used open-source data to monitor invasive species' population trends.
 * Developed occupancy models of non-native bird species in urban areas. 
 * Teaching assistant for courses *Wildlife Population Ecology*, *Wildlife Issues in a Changing World*, and *Biodiversity Conservation: Global Perspectives*  
 
-**GIS and Avian Ecology Intern** (2013)    
-Fish and Wildlife Research Institute | Florida Fish and Wildlife Research Conservation Commission    
-* Investigated effects of agriculture and urbanization on American Kestrel (*Falco sparverius*) nest success.   
+**GIS and Avian Ecology Intern** (2013)
+
+Fish and Wildlife Research Institute | Florida Fish and Wildlife Research Conservation Commission
+* Investigated effects of agriculture and urbanization on American Kestrel (*Falco sparverius*) nest success.
 
 **Research Assistant** (2012-2013)     
-Avian Ecology and Conservation Lab | University of Florida    
+Avian Ecology and Conservation Lab | University of Florida
+
 * Investigated alignment of predation risk perception and predation risk of small forest birds.  
 * Managed seasonal bird banding database and banding supplies.  
 
 **Smithsonian Fellow and Florida Crew Leader** (2011-2013)  
-Neighborhood Nestwatch Program | Smithsonian Migratory Bird Center  
+Neighborhood Nestwatch Program | Smithsonian Migratory Bird Center
+
 * Targeted capture and banding of select species in participants' backyards.  
 * Banding demonstrations at local youth organizations.  
 * Organized and trained banding technicians.  
 
 **Project Volunteer** (2012)    
-Ordway Lab of Ecosystem Conservation | Univeristy of Florida  
+Ordway Lab of Ecosystem Conservation | Univeristy of Florida
+
 * Transcribed voice-recorded, behavioral foraging data.  
 * Identified louse from lowland manakins and flycatcher specimens.  
 
-### Peer-reviewed Publications
+__<span style="font-variant: small-caps">
+Peer-reviewed Publications</span>__
+
 [1]  **Burnett, J.L.**, Moulton, M.P. 2015. Recent trends in House Sparrow (*Passer domesticus*) distribution and abundance in Gainesville, Alachua County, Florida. *Florida Field Naturalist* 43(4):167-172. 
 
 [2]  **Burnett, J.L.**, Sieving, K.E. Songbird distress call as a detection enhancement method and application to Red-shouldered Hawks (*Buteo lineatus*). Accepted in *Florida Field Naturalist* pending revisions.    
