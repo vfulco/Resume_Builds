@@ -62,12 +62,11 @@ Ordway Lab of Ecosystem Conservation | University of Florida
 [1] <span style="font-variant: small-caps">
  **Burnett, J.L.**, Moulton, M.P. </span>2015. Recent trends in House Sparrow (*Passer domesticus*) distribution and abundance in Gainesville, Alachua County, Florida. *Florida Field Naturalist* 43(4):167-172. 
 
-
 [2] <span style="font-variant: small-caps"> **Burnett, J.L.**, Sieving, K.E. </span>Songbird distress call as a detection enhancement method and application to Red-shouldered Hawks (*Buteo lineatus*). Accepted in *Florida Field Naturalist* pending revisions.    
 
 [3] <span style="font-variant: small-caps"> **Burnett, J.L.**, Allen, C.R., Brown, M.B., and Roberts, C.R.</span> Eurasian Tree Sparrow (*Passer montanus*) range expansion in North America. Accepted in *Biological Invasions* pending revisions.
 
-[4] <span style="font-variant: small-caps">Allen, C.R., Birge, H.B., Bartlet-Hunt, S.L., Bevans, R.A., **Burnett, J. L.** , Cosens, B.A., Cai, X., Garmestani, A.S., Linkov, I., Scott, E.A., Solomon, M.D., and Uden, D. </span>Avoiding decline: Fostering resilience and sustainability in midsize cities. Under review at *Sustainability*.  
+[4] <span style="font-variant: small-caps">Allen, C.R., Birge, H.B., Bartlet-Hunt, S.L., Bevans, R.A., **Burnett, J. L.** , Cosens, B.A., Cai, X., Garmestani, A.S., Linkov, I., Scott, E.A., Solomon, M.D., and Uden, D. </span>Avoiding decline: Fostering resilience and sustainability in midsize cities. Accepted in *Sustainability* pending revisions.  
 
 ## Honors & Awards
 2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AAAS/Science Program for Excellence in Science Award     
