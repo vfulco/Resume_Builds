@@ -6,7 +6,7 @@ permalink: https://github.com/TrashBirdEcology/Resume_Builds/blob/master/CVResum
 
 #Jessica L. Burnett
  <span style="font-variant: small-caps">
-Urban Ecology | Open Science | Computational Ecology
+Macroecology | Complex Systems 
 </span>   
 
 ## Education
