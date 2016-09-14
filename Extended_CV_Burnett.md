@@ -42,34 +42,37 @@ Ordway Lab of Ecosystem Conservation | Univeristy of Florida
 * Identified louse from lowland manakins and flycatcher specimens.  
 
 ## Peer-reviewed Publications
-[1]  **Burnett, J.L.** and Moulton, M.P. 2015. Recent trends in House Sparrow (*Passer domesticus*) distribution and abundance in Gainesville, Alachua County, Florida. *Florida Field Naturalist* 43(4):167-172.   
+[4]  **Burnett, J.L.** and Sieving, K.E. *Revisions submitted*. Songbird distress call as a detection enhancement method and application to Red-shouldered Hawks (*Buteo lineatus*). *Florida Field Naturalist*      
 
-[2]  **Burnett, J.L.** and Sieving, K.E. Accepted with minor revisions. Songbird distress call as a detection enhancement method and application to Red-shouldered Hawks (*Buteo lineatus*). *Florida Field Naturalist*.      
+[3]  **Burnett, J.L.**, Allen, C.R., Brown, M.B., and Roberts, C.R. *Revisions submitted*. Eurasian Tree Sparrow (*Passer montanus*) range expansion in North America. *Biological Invasions*
 
-[3]  **Burnett, J.L.**, Allen, C.R., Brown, M.B., and Roberts, C.R. *Revisions submitted*. Eurasian Tree Sparrow (*Passer montanus*) range expansion in North America.         *Biological Invasions*.     
+[2] Allen, C.R., Birge, H.B., Bartlet-Hunt, S.L., Bevans, R.A., **Burnett, J L.** , Cosens, B.A., Cai, X., Garmestani, A.S., Linkov, I., Scott, E.A., Solomon, M.D., and Uden, D. 2016. Avoiding decline: Fostering resilience and sustainability in midsize cities. *Sustainability* 8(9): 844 doi 10.3390/su8090844
 
-[4] Allen, C.R., Birge, H.B., Bartlet-Hunt, S.L., Bevans, R.A., **Burnett, J L.** , Cosens, B.A., Cai, X., Garmestani, A.S., Linkov, I., Scott, E.A., Solomon, M.D., and Uden, D. *Accepted with revisions*. Avoiding decline: Fostering resilience and sustainability in midsize cities. *Sustainability*   
+[1]  **Burnett, J.L.** and Moulton, M.P. 2015. Recent trends in House Sparrow (*Passer domesticus*) distribution and abundance in Gainesville, Alachua County, Florida. *Florida Field Naturalist* 43(4):167-172
 
 ## Invited Talks
 
-[1] Invited talk  Decline of the Once-Ubiquitous House Sparrow in North America. *Nerbraska Invasive Species Council*, Lincoln, N.E., 2015.
+[2] Invited talk  Decline of the Once-Ubiquitous House Sparrow in North America. *Nerbraska Invasive Species Council*, Lincoln, N.E., 2015.
 
-[2] Guest lecture and lab session, *Using Citizen Science Data in Avian Invasion Ecology*, in undergraduate course, *Ecology of Avian Invasions*, 2013. Interactive discussion and instruction on finding and utilizing open-sourced data to understand the dynamics and ecology of avian invasions.
+[1] Guest lecture and lab session, *Using Citizen Science Data in Avian Invasion Ecology*, in undergraduate course, *Ecology of Avian Invasions*, 2013. Interactive discussion and instruction on finding and utilizing open-sourced data to understand the dynamics and ecology of avian invasions.
 
 ## Presentations
-[1] **Burnett, J.L.**, Roberts, C.P., Allen, C.R., Angeler, D.G., Twidwell, D., and Tyre, A.J. Using Big Data to Detect Regime Shifts in Space and Time. *North American Ornithological Conference VI*, Poster presentation. Smithsonian Migratory Bird Institute, Washington, D.C., 2016
 
-[2] **Burnett, J.L.**, Moulton, M. P., Sieving, K.E., Avery, M., and Robinson, S.K. Are House Sparrow declines a byproduct of urban greening? Southeastern Ecology and Evolution Conference, Oral presentation. University of Georgia, Athens, GA, 2015  
+[7] Lepczyk, C.A., La Sorte, F.A., and **Burnett, J.L.** (Big Data Ornithology Symposium co-organizers and presenters). Past, Present, and Future: A Synthesis of Big Data Ornithology Using Big Data. *North American Ornithological Conference VI*, Smithsonian Migratory Bird Institute, Washington, D.C., 2016
 
-[3] **Burnett, J.L.**, Moulton, M. P., Sieving, K.E., Avery, M.L., and Robinson, S.K. Are House Sparrow declines a byproduct of urban greening? *American Ornithologists' Union and Cooper Ornithological Society Annual Meeting*, Poster presentation. Norman, OK, 2015.
+[6] **Burnett, J.L.**, Roberts, C.P., Allen, C.R., Angeler, D.G., Twidwell, D., and Tyre, A.J. Using Big Data to Detect Regime Shifts in Space and Time. *North American Ornithological Conference VI*, Poster presentation. Smithsonian Migratory Bird Institute, Washington, D.C., 2016
+
+[5] **Burnett, J.L.**, Moulton, M. P., Sieving, K.E., Avery, M., and Robinson, S.K. Are House Sparrow declines a byproduct of urban greening? Southeastern Ecology and Evolution Conference, Oral presentation. University of Georgia, Athens, GA, 2015  
+
+[5] **Burnett, J.L.**, Moulton, M. P., Sieving, K.E., Avery, M.L., and Robinson, S.K. Are House Sparrow declines a byproduct of urban greening? *American Ornithologists' Union and Cooper Ornithological Society Annual Meeting*, Poster presentation. Norman, OK, 2015.
 
 [4] **Burnett, J.L.**, Moulton, M.P., and Sieving, K.E. House sparrow: the decline of a once ubiquitous, invasive species. *Florida Chapter of The Wildlife Society Annual Conference*, Poster presentation. Safety Harbor, FL, 2014.
 
-[5] **Burnett, J.L.** and Sieving, K.E. Detecting birds of prey using tufted titmouse distress calls. *USGS Florida Cooperative Fish and Wildlife Research Unit Committee Meeting*, Poster presentation. Gainesville, FL, 2013.
+[3] **Burnett, J.L.** and Sieving, K.E. Detecting birds of prey using tufted titmouse distress calls. *USGS Florida Cooperative Fish and Wildlife Research Unit Committee Meeting*, Poster presentation. Gainesville, FL, 2013.
 
-[6] **Burnett, J.L.** and Sieving, K.E. Do actual and perceived risks of small forest birds align? *Florida Ornithological Society Conference, Oral presentation*, St. Petersburg, FL, 2013.
+[2] **Burnett, J.L.** and Sieving, K.E. Do actual and perceived risks of small forest birds align? *Florida Ornithological Society Conference, Oral presentation*, St. Petersburg, FL, 2013.
 
-[7] **Burnett, J.L.** and Sieving, K.E. Perceived predation risks of small forest birds. *Association of Field Ornithologists Annual Conference*, Poster presentation. Venus, FL, 2013.
+[1] **Burnett, J.L.** and Sieving, K.E. Perceived predation risks of small forest birds. *Association of Field Ornithologists Annual Conference*, Poster presentation. Venus, FL, 2013.
 
 # Service
 ####At the University of Nebraska-Lincoln       
